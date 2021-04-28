@@ -8,7 +8,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 # 
 <p align="center">
-<a href="https://www.linkedin.com/in/rajeev-singh-vit/"><img height="50" src="https://github.com/Rajeev064/Rajeev064/blob/master/Assets/linkedin.svg"></a>&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/rajeev-singh-vit/"><img height="50" src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/linkedin.svg"></a>&nbsp;&nbsp; 
 </p>  
 
 ## About Me 👇
