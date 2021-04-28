@@ -25,23 +25,18 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 ![C](https://img.shields.io/badge/C-%7C-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) <br>
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) <br>
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)<br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br> <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m Internships & Opportunities** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskBhargav](https://www.linkedin.com/in/bhargavjoshi55/)**<br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **My Hobbies: Writing Blogs, Helping students, Playing Games, Travelling**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m Open for Open Source and Internship Opportunities** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskRajeev](https://www.linkedin.com/in/rajeev-singh-vit/)**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **My Hobbies: Helping students, Playing Games, Travelling, Coding**<br>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
