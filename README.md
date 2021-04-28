@@ -56,5 +56,6 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev064&layout=compact" />
 </div>
+<!--
+![visitors](https://komarev.com/ghpvc/?username=Rajeev064&style=flat-square)-->
 
-![visitors](https://komarev.com/ghpvc/?username=Rajeev064&style=flat-square)
