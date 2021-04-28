@@ -8,8 +8,8 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 # 
 <p align="center">
 <a href="https://www.linkedin.com/in/rajeev-singh-vit/"><img height="50" src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/linkedin.svg"></a>&nbsp;&nbsp; 
-<a href="https://instagram.com/https://www.instagram.com/rajeev_singh6/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rajeev_singh6" height="50" /></a>&nbsp;&nbsp; 
- <a href="mailto:rs3167196@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rs3167196@gmail.com" height="50" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rajeev_singh6/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rajeev_singh6" height="45" /></a>&nbsp;&nbsp; 
+ <a href="mailto:rs3167196@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rs3167196@gmail.com" height="45" /></a>
 </p>  
 
 ## About Me 👇
