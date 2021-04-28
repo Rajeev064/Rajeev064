@@ -38,7 +38,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Rajeev064&theme=onedark"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=Rajeev064&theme=onedark&column=4"/>
   </a>
  </div>
  <div> 
