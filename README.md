@@ -51,12 +51,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
  </div>
  <div> 
 </div>
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajeev064&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev064&layout=compact" />
-</div>
 <!--
 ![visitors](https://komarev.com/ghpvc/?username=Rajeev064&style=flat-square)-->
 
