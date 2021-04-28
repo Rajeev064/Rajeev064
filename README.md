@@ -46,16 +46,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhargav-joshi&column=7&hide=issue"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Rajeev064&column=7&hide=issue"/>
   </a>
  </div>
- <div>
-<h4> Milestones & Badges </h4>
-<img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" width="130px" align="left">
-<img src="https://s3.amazonaws.com/thinkific/file_uploads/231374/images/aae/550/c27/CNSS_Badge.png" width="130px">
-<img src="https://cdn.qwiklabs.com/isCiNdTicfOGb2vdNY9r8EasHwNfIWheD4FdM0YGeSs%3D" width="150px">
-<img src="https://cdn.qwiklabs.com/dzHEfQ9fNmzwVqjbG37%2B7CwfRGy4cXhCf2yMpD%2FPtH0%3D" width="130px">
- 
+ <div> 
 </div>
 
 <!--## Communities
