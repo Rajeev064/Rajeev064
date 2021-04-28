@@ -64,7 +64,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <div>
  
 <img src="https://github-readme-stats.vercel.app/api?username=Rajeev064&show_icons=true" width=400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev064&layout=compact" />
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
