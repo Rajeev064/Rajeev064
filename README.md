@@ -61,10 +61,9 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <img src="https://betanews.com/wp-content/uploads/2022/08/Microsoft-Logo1.jpg" width=60px>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajeev064&show_icons=true" width=400>
-
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Rajeev064&show_icons=true" width=400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 </div>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
