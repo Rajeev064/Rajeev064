@@ -51,6 +51,6 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rajeev064&layout=compact&theme=material-palenight" />
 </a>
-<!--
-![visitors](https://komarev.com/ghpvc/?username=Rajeev064&style=flat-square)-->
+
+![visitors](https://komarev.com/ghpvc/?username=Rajeev064&style=flat-square)
 
