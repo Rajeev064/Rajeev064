@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Welcome to my GitHub 👨‍💻❤️ <br></h1>
+<h1 align="center">Hey 👋, Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
@@ -51,9 +51,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
  </div>
  <div> 
 </div>
-
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev064&layout=compact" />
 </div>
 <!--
