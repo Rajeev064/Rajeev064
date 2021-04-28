@@ -52,16 +52,6 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
  <div> 
 </div>
 
-<!--## Communities
-
-<a href="https://crowdsource.google.com/"><img src="https://lh3.googleusercontent.com/mR_90d6G3yG85wtSqaIm2NhHNTpXQFDdr0kGyU6JPJ0B0emm1LNmBI_rNcQ-khwcuMeE" width=60px></a>
-<a href="https://dsc.community.dev/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0?e=2159024400&v=beta&t=NFD7U4LerS47Ui4c03fBDH_6BsG9vTQm081EVKBxYc0" width=70px></a>
-<a href="https://codingblocks.com/"><img src="https://avatars1.githubusercontent.com/u/19412721?s=200&v=4" width=60px></a>
-<a href="https://github.com/Developer-Community-India"><img src="https://avatars0.githubusercontent.com/u/71818610?s=200&v=4" width=60px></a>
-<img src="https://betanews.com/wp-content/uploads/2022/08/Microsoft-Logo1.jpg" width=60px>
--->
-
-<div>
  
 <img src="https://github-readme-stats.vercel.app/api?username=Rajeev064&show_icons=true" width=400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev064&layout=compact" />
