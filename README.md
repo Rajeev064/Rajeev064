@@ -28,7 +28,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.google.com/search?q=flask+logo&sxsrf=ALeKk02Vk9gbKWiLLO4CEd7724eKZbdPVA:1619617904263&tbm=isch&source=iu&ictx=1&fir=ddBWgqMpQ6HC2M%252CVOLvotlkyl-peM%252C_&vet=1&usg=AI4_-kS8EEFy4DbN9lRCazLPOQLoJl5gtg&sa=X&ved=2ahUKEwj1yuvuiqHwAhUaVH0KHfi6B78Q9QF6BAgREAE#imgrc=ddBWgqMpQ6HC2M" alt="flask" width="20" height="20"/>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="20" height="20"/> </a>
 
 <br> <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
