@@ -57,4 +57,4 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev064&layout=compact" />
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
