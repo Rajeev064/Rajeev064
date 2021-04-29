@@ -14,7 +14,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 ## About Me 👇
  
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **⚡ Technologies which I used ⚡**
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **⚡ Technologies which I used ⚡**
  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%7C-blue?style=flat-square) 
 ![Web Development](https://img.shields.io/badge/Web%20Development-%7C-red?style=flat-square) 
@@ -31,10 +31,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <br> <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m Open for Open Source and Internship Opportunities** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskRajeev](https://www.linkedin.com/in/rajeev-singh-vit/)**<br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **My Hobbies: Helping students, Playing Games, Travelling, Coding**<br>
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **I’m Open for Open Source and Internship Opportunities** <br>
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **How to reach me: [AskRajeev](https://www.linkedin.com/in/rajeev-singh-vit/)**<br>
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **My Hobbies: Helping students, Playing Games, Travelling, Coding**<br>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
