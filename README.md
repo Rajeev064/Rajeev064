@@ -1,9 +1,9 @@
 <h1 align="center">Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I am Rajeev.<br> Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-<h4 align="left"> I'm a second year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. I love to learn New Technologies and workig with Commities.<br>
+<h4 align="left"> I'm a second year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. I love to learn New Technologies and working with Commities.<br>
 I am Data science, Web Development, and Software development Enthusiast and working on and learning in these domains.
-I am Open For Internships, You can Send me your Offer on My mail or just Message me. </h4>
+I am Open For Internships, You can Send me your Offer on My mail or just Message me on LinkedIn. </h4>
 
 # 
 <p align="center">
