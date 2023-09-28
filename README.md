@@ -33,7 +33,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <br> <br>
 <img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
 <img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **I’m Open for Open Source and Internship Opportunities** <br>
-<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **How to reach me: [AskRajeev]([https://www.linkedin.com/in/rajeev-singh-vit/](https://www.linkedin.com/in/rajeevsinghusc/))**<br>
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **How to reach me: [AskRajeev](https://www.linkedin.com/in/rajeevsinghusc/)**<br>
 <img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **My Hobbies: Helping students, Playing Games, Travelling, Coding**<br>
 
 <div>
