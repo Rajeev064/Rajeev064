@@ -7,7 +7,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 # 
 <p align="center">
-<a href="https://www.linkedin.com/in/rajeev-singh-vit/"><img height="50" src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/linkedin.svg"></a>&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/rajeevsinghusc/"><img height="50" src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/linkedin.svg"></a>&nbsp;&nbsp; 
 <a href="https://www.instagram.com/rajeev_singh6/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rajeev_singh6" height="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
  <a href="mailto:rajeevdh@usc.edu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rajeevdh@usc.edu" height="45" /></a>
 </p>  
@@ -33,7 +33,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <br> <br>
 <img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
 <img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **I’m Open for Open Source and Internship Opportunities** <br>
-<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **How to reach me: [AskRajeev](https://www.linkedin.com/in/rajeev-singh-vit/)**<br>
+<img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **How to reach me: [AskRajeev]([https://www.linkedin.com/in/rajeev-singh-vit/](https://www.linkedin.com/in/rajeevsinghusc/))**<br>
 <img src="https://github.com/Rajeev064/Rajeev064/blob/main/Assets/next.png" width="20px"> **My Hobbies: Helping students, Playing Games, Travelling, Coding**<br>
 
 <div>
